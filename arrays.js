@@ -9,7 +9,7 @@ console.log(yearsBefore);
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies (zoals muziek luisteren en koekjes eten) in op. Log dit in de terminal.
 // ==========================================
 
-const spareTime = ['Playing guitar', 'Eating exotic foods', 'Drinking water'];
+const spareTime = ['Playing guitars', 'Eating exotic foods', 'Drinking water'];
 console.log(spareTime);
 
 // ==========================================

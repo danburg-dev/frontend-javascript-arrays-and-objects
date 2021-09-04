@@ -5,7 +5,7 @@
 const nawData = {
   surName: 'Daniel',
   lastName: 'Burgemeestre',
-  ageNumber:  '48',
+  ageNumber:  '49',
   dateOfBirth: 'Thirteenth Of June Nineteen Seventy Two'
 };
 console.log(nawData);
